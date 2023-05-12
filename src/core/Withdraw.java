@@ -6,5 +6,7 @@ public class Withdraw {
 
     //$$$
 
-    //money is slot
+    //money in slot
+
+    //update later
 }
